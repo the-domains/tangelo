@@ -1,0 +1,28 @@
+name: tangelo
+favicon: null
+layout_spectrum: 0.532382849836722
+typography_spectrum: 0.02195820421911776
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.038356793113052845
+  lightness: 0.37246876722201705
+  saturation: 0.5913036656565964
+  rhythmicContrast: 0.1212963443249464
+purpose: []
