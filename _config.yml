@@ -1,7 +1,7 @@
 name: tangelo
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 1
+layout_spectrum: 0.47161
+typography_spectrum: 0.37382
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 1
   lightness: 1
   saturation: 1
-  rhythmicContrast: 1
+  rhythmicContrast: 0.25
 purpose: []
